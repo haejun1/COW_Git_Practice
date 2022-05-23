@@ -1,1 +1,1 @@
-const user = "해준"
+#git & github practice
